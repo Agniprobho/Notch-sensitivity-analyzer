@@ -1,5 +1,3 @@
-
-// implementation of babylonian algorithm
 #include "notch.hh"
 #include <cmath>
 

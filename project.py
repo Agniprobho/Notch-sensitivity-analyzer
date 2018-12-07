@@ -125,10 +125,6 @@ class MainWindow1(QMainWindow) :
         self.edit3b = QLineEdit("")
         self.edit4b = QLineEdit("")
         
-        self.edit2b.setDisabled(True)
-        self.edit3b.setDisabled(True)
-        self.edit4b.setDisabled(True)
-        
         self.edit1b = QComboBox()
         self.edit1b.addItems(['Material dropdown','Comparison Chart','Quenched/Tempered Steel','Annealed Steel',
                               'Steel (input Su)','Aluminium Alloy 356.0 as cast',
